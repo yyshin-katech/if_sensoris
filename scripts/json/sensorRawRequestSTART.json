@@ -1,0 +1,10 @@
+{
+   "command" : "sensorRawRequest",
+   "request" : {
+      "terminal_id" : "IDV3611000010031",
+      "request_type" : "START",
+      "sensor_raw_type" : "CAMERA_SNAPSHOT",
+      "sensor_id" : 1,
+      "period" : 1000
+   }
+}  
